@@ -16,3 +16,7 @@ LOL this is of course completely not intended to be useful, I just want blinky l
 
 ## Docs
 Display API - https://www.waveshare.com/wiki/1.28inch_LCD_Module#Upper_application
+
+Paint_* - commands add to the current framebuffer image
+LCD_1IN28_Display - Send the current framebuffer image to be rendered to the screen and then clear its contents to black
+LCD_1IN28_DisplayWindows - Updates a specific region of the current screen with the matching region of the framebuffer. Then clears the framebuffer contents to black (the entire thing, not just the region specified
