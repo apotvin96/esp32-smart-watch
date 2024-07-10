@@ -2,7 +2,7 @@
 
 LOL this is of course completely not intended to be useful, I just want blinky lights.
 
-## Setup - 
+## Setup
   Roughly Following: https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.28
 
 1. Install Arduino IDE
